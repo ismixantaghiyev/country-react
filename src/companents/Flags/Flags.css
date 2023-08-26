@@ -1,0 +1,27 @@
+.flagAll{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    margin-left: 80px;
+}
+
+.flags{
+    width: 94%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 43px;
+    /* background-color: red; */
+}
+
+.loadModeBtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0px;
+}
+
+.salam{
+    margin-left: 700px;
+}

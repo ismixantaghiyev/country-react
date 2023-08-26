@@ -1,0 +1,17 @@
+
+.custom-select{
+    outline: none;
+    border: none;
+    width: 250px;
+    height: 40px;
+    font-size: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    position: absolute;
+    right: 15px;
+    top: -30px;
+    color: #716f6f;
+}
+
+.container{
+    position: relative;
+}

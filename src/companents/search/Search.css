@@ -1,0 +1,27 @@
+.search{
+    height: 50px;
+    width: 30%;
+    margin:30px 0px 0px 125px;
+}
+
+.search input{
+    width: 30%;
+    font-size: 20px;
+    padding: 20px 20px 20px 40px;
+    border: none;
+    outline: none;
+    position: absolute;
+    margin-top: -20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.searchIcon{
+    position: relative;
+    top: 27px;
+    left: 10px;
+    z-index: 1;
+    font-size: 20px;
+    width: 30px;
+}
+
+
